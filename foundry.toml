@@ -3,6 +3,8 @@ optimizer_runs = 1000000
 
 [rpc_endpoints]
 arbitrum = "${RPC_URL_ARBITRUM}"
+avalanche = "${RPC_URL_AVALANCHE}"
+fantom = "${RPC_URL_FANTOM}"
 goerli = "${RPC_URL_GOERLI}"
 mainnet = "${RPC_URL_MAINNET}"
 optimism = "${RPC_URL_OPTIMISM}"
@@ -10,6 +12,8 @@ polygon = "${RPC_URL_POLYGON}"
 
 [etherscan]
 arbitrum = {key = "${ARBISCAN_KEY}", url = "https://api.arbiscan.io/api"}
+avalanche = {key = "${SNOWTRACE_KEY}", url = "https://api.snowtrace.io/api"}
+fantom = {key = "${FTMSCAN_KEY}", url = "https://api.ftmscan.com/api"}
 goerli = {key = "${ETHERSCAN_KEY}", url = "https://api-goerli.etherscan.io/api"}
 mainnet = {key = "${ETHERSCAN_KEY}"}
 optimism = {key = "${OPTIMISM_ETHERSCAN_KEY}", url = "https://api-optimistic.etherscan.io/api"}
