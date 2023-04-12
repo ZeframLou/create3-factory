@@ -22,6 +22,7 @@ A `CREATE3` factory offers the best solution: the address of the deployed contra
 - Fantom Opera Mainnet
 - Optimism Mainnet
 - Polygon Mainnet
+- Gnosis Chain Mainnet
 
 ## Usage
 

@@ -4,7 +4,9 @@ optimizer_runs = 1000000
 [rpc_endpoints]
 arbitrum = "${RPC_URL_ARBITRUM}"
 avalanche = "${RPC_URL_AVALANCHE}"
+bsc = "${RPC_URL_BSC}"
 fantom = "${RPC_URL_FANTOM}"
+gnosis = "${RPC_URL_GNOSIS}"
 goerli = "${RPC_URL_GOERLI}"
 mainnet = "${RPC_URL_MAINNET}"
 optimism = "${RPC_URL_OPTIMISM}"
@@ -13,10 +15,10 @@ polygon = "${RPC_URL_POLYGON}"
 [etherscan]
 arbitrum = {key = "${ARBISCAN_KEY}", url = "https://api.arbiscan.io/api"}
 avalanche = {key = "${SNOWTRACE_KEY}", url = "https://api.snowtrace.io/api"}
+bsc = {key = "${BSCSCAN_KEY}", url = "https://api.bscscan.com/api"}
 fantom = {key = "${FTMSCAN_KEY}", url = "https://api.ftmscan.com/api"}
+gnosis = {key = "${GNOSISSCAN_KEY}", url = "https://api.gnosisscan.io/api"}
 goerli = {key = "${ETHERSCAN_KEY}", url = "https://api-goerli.etherscan.io/api"}
 mainnet = {key = "${ETHERSCAN_KEY}"}
 optimism = {key = "${OPTIMISM_ETHERSCAN_KEY}", url = "https://api-optimistic.etherscan.io/api"}
 polygon = {key = "${POLYGONSCAN_KEY}", url = "https://api.polygonscan.com/api"}
-
-# See more config options https://github.com/foundry-rs/foundry/tree/master/config
