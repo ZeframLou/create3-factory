@@ -18,11 +18,13 @@ A `CREATE3` factory offers the best solution: the address of the deployed contra
 - Ethereum Mainnet
 - Ethereum Goerli Testnet
 - Arbitrum Mainnet
+- Arbitrum Goerli Testnet
 - Avalanche C-Chain Mainnet
 - Fantom Opera Mainnet
 - Optimism Mainnet
 - Polygon Mainnet
 - Gnosis Chain Mainnet
+- BSC Mainnet
 
 ## Usage
 
