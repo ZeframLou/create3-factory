@@ -5,6 +5,7 @@ optimizer_runs = 1000000
 arbitrum = "${RPC_URL_ARBITRUM}"
 arbitrum_goerli = "${RPC_URL_ARBITRUM_GOERLI}"
 avalanche = "${RPC_URL_AVALANCHE}"
+base = "${RPC_URL_BASE}"
 bsc = "${RPC_URL_BSC}"
 fantom = "${RPC_URL_FANTOM}"
 gnosis = "${RPC_URL_GNOSIS}"
@@ -18,6 +19,7 @@ sepolia = "${RPC_URL_SEPOLIA}"
 arbitrum = {key = "${ARBISCAN_KEY}", url = "https://api.arbiscan.io/api"}
 arbitrum_goerli = {key = "${ARBISCAN_KEY}", url = "https://api-goerli.arbiscan.io/api"}
 avalanche = {key = "${SNOWTRACE_KEY}", url = "https://api.snowtrace.io/api"}
+base = {key = "${BASESCAN_KEY}", url = "https://api.basescan.org/api"}
 bsc = {key = "${BSCSCAN_KEY}", url = "https://api.bscscan.com/api"}
 fantom = {key = "${FTMSCAN_KEY}", url = "https://api.ftmscan.com/api"}
 gnosis = {key = "${GNOSISSCAN_KEY}", url = "https://api.gnosisscan.io/api"}

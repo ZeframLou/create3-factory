@@ -26,6 +26,7 @@ A `CREATE3` factory offers the best solution: the address of the deployed contra
 - Polygon Mainnet
 - Gnosis Chain Mainnet
 - BSC Mainnet
+- Base Mainnet
 
 ## Usage
 
