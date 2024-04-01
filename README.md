@@ -27,6 +27,7 @@ A `CREATE3` factory offers the best solution: the address of the deployed contra
 - Gnosis Chain Mainnet
 - BSC Mainnet
 - Base Mainnet
+- Base Sepolia Testnet
 
 ## Usage
 
