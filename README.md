@@ -28,6 +28,7 @@ A `CREATE3` factory offers the best solution: the address of the deployed contra
 - BSC Mainnet
 - Base Mainnet
 - Base Sepolia Testnet
+- Blast Mainnet
 
 ## Usage
 
