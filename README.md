@@ -18,6 +18,7 @@ A `CREATE3` factory offers the best solution: the address of the deployed contra
 - Ethereum Mainnet
 - Ethereum Goerli Testnet
 - Ethereum Sepolia Testnet
+- Ethereum Holesky Testnet
 - Arbitrum Mainnet
 - Arbitrum Goerli Testnet
 - Avalanche C-Chain Mainnet
