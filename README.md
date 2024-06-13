@@ -30,6 +30,7 @@ A `CREATE3` factory offers the best solution: the address of the deployed contra
 - Base Mainnet
 - Base Sepolia Testnet
 - Blast Mainnet
+- Sanko Mainnet
 
 ## Usage
 
