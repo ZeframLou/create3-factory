@@ -18,6 +18,7 @@ optimism = "${RPC_URL_OPTIMISM}"
 polygon = "${RPC_URL_POLYGON}"
 sanko = "${RPC_URL_SANKO}"
 sepolia = "${RPC_URL_SEPOLIA}"
+unichain = "${RPC_URL_UNICHAIN}"
 
 [etherscan]
 arbitrum = {key = "${ARBISCAN_KEY}", url = "https://api.arbiscan.io/api"}
@@ -34,3 +35,4 @@ mainnet = {key = "${ETHERSCAN_KEY}"}
 optimism = {key = "${OPTIMISM_ETHERSCAN_KEY}", url = "https://api-optimistic.etherscan.io/api"}
 polygon = {key = "${POLYGONSCAN_KEY}", url = "https://api.polygonscan.com/api"}
 sepolia = {key = "${ETHERSCAN_KEY}", url = "https://api-sepolia.etherscan.io/api"}
+unichain = {key = "${UNISCAN_KEY}", url = "https://api.uniscan.xyz/api"}
